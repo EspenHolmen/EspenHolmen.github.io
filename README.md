@@ -1,2 +1,3 @@
 # EspenHolmen.github.io.
-My Blog Thing
+
+This is going to be my blog at some future point.
